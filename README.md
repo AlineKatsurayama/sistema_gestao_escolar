@@ -7,3 +7,10 @@
 ![DiagramaClasses](/diagrama_classes.jpg)
 
 # Tela Login do aluno
+![LoginAluno](/loginAluno.png)
+
+# Tela Login do professor
+![LoginProf](/loginProfessor.png)
+
+# Tela Login fornecedor
+![LoginForn](/loginFornecedor.png)
