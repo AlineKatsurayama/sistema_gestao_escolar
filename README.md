@@ -6,6 +6,12 @@
 # Diagrama de classes
 ![DiagramaClasses](/diagrama_classes.jpg)
 
+# Tela de início
+![Home](/home.png)
+
+# Ao clicar em Identifique-se:
+![Identificacao](/identificacao.png)
+
 # Tela Login do aluno
 ![LoginAluno](/loginAluno.png)
 
