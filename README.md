@@ -24,5 +24,20 @@
 # Tela Matricula do aluno
 ![MatriculaAluno](/loginAluno-1.png)
 
+# Tela Professor Campos
+![CamposProfessor](/areaProfCampos.png)
+
+# Tela Professor Portal Emp
+![EmpProfessor](/areaProfPortalEmp.png)
+
+# Tela Professor Turmas
+![TurmasProfessor](/areaProfTurmas.png)
+
+# Tela Professor Drive
+![DriveProfessor](/areaProfDrive.png)
+
+# Tela Professor Formulários
+![FormularioProfessor](/areaProfForm.png)
+
 
 
