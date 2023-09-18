@@ -21,9 +21,5 @@
 # Tela Login fornecedor
 ![LoginForn](/loginFornecedor.png)
 
-# Tela Aluno Matrícula 
-![LoginAluno-1](/loginAluno-1.png)
 
-#Tela Aluno Aulas
-!![LoginAluno-2](/loginAluno-2.png)
 
