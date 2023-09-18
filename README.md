@@ -13,7 +13,7 @@
 ![Identificacao](/identificacao.png)
 
 # Tela Login do aluno
-![LoginAluno](/loginAluno.png)
+![LoginAluno](/areaAluno.png)
 
 # Tela Login do professor
 ![LoginProf](/loginProfessor.png)
